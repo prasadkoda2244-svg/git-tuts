@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hi
-=======
 HI Mama
->>>>>>> origin/master
